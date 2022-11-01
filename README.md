@@ -136,8 +136,7 @@ arp who-has 128.3.254.6 tell 128.3.254.68 arp reply 128.3.254.6 is-at 02:07:01:0
 
 Wireshark - 
 
-![alt_text](![image](https://user-images.githubusercontent.com/74425589/199260208-fd9a9831-8dd1-4e7b-a441-0d947ded50b9.png) "image_tooltip")
-
+![image](https://user-images.githubusercontent.com/74425589/199260311-3a68c064-a8bf-4994-8538-6de1027cfeb1.png)
 
 
 Wireshark is a free and open source packet analyzer. It is also a protocol analyzer tool which captures network traffic and analyzes it. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, the project was renamed Wireshark in May 2006 .
