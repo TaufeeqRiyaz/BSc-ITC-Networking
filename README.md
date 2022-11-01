@@ -62,9 +62,7 @@ To know if your device has a network adapter -
 * Select **Set up a new connection or network**.
 * Select **Set up a new network**, then choose **Next**.
 
-Ping -
-
-What is Ping? 
+### Ping -
 
 This command is used to test connectivity between two nodes. Ping use ICMP (Internet Control Message Protocol) to communicate to other devices. You can ping host name or ip address using below command. 
 
@@ -73,7 +71,7 @@ example: ping 201.54.100.1 or ping www.google.com
 
 ## How to run a ping network test?
 
-For Windows 10 and 11 go to Search in the taskbar and - 
+#### For Windows 10 and 11 go to Search in the taskbar and - 
 
 
 
@@ -83,9 +81,9 @@ For Windows 10 and 11 go to Search in the taskbar and -
 4. Type the IP address you’d like to ping (e.g., 192.XXX.X.X).
 5. Review the ping results displayed.
 
-For Macs, follow the same cadence by opening Network Utility and inputting the hostname or IP address you’d like to ping.
+#### For Macs, follow the same cadence by opening Network Utility and inputting the hostname or IP address you’d like to ping.
 
-For Linux, open Terminal. You can also use the traceroute command to review the different IP addresses your request routes through. To do this, simply:
+#### For Linux, open Terminal. You can also use the traceroute command to review the different IP addresses your request routes through. To do this, simply:
 
 
 
@@ -95,16 +93,18 @@ For Linux, open Terminal. You can also use the traceroute command to review the 
 
 DHCP **- Dynamic Host Configuration Protocol** (DHCP) is a client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.
 
-Hostname - Gives the host name of the computer you are logged into. 
+#Hostname - 
+Gives the host name of the computer you are logged into. 
 
-Traceroute - traceroute is a network troubleshooting utility which shows number of hops taken to reach destination also determine packets traveling path. Example: 
+### Traceroute - 
+Traceroute is a network troubleshooting utility which shows number of hops taken to reach destination also determine packets traveling path. Example: 
 
 
 
 * Windows - tracert google.com
 * Linux - traceroute google.com
 
-Netstat -
+### Netstat -
 
 Netstat (Network Statistic) command displays interfaces, connection information, routing example: netstat
 
@@ -116,11 +116,11 @@ netstat –s –t
 
 netstat -i 
 
-Whoami -
+### Whoami -
 
 The whoami command writes the user name (i.e., login name) of the owner of the current login session to standard output.
 
-Tcpdump - 
+### Tcpdump - 
 
 Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; the description is preceded by a time stamp, printed, by default, as hours, minutes, seconds, and fractions of a second since midnight. 
 
@@ -134,7 +134,7 @@ arp who-has 128.3.254.6 tell 128.3.254.68 arp reply 128.3.254.6 is-at 02:07:01:0
 ```
 
 
-Wireshark - 
+### Wireshark - 
 
 ![image](https://user-images.githubusercontent.com/74425589/199260311-3a68c064-a8bf-4994-8538-6de1027cfeb1.png)
 
@@ -142,7 +142,7 @@ Wireshark -
 Wireshark is a free and open source packet analyzer. It is also a protocol analyzer tool which captures network traffic and analyzes it. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, the project was renamed Wireshark in May 2006 .
 
 
-Purpose of wireshark - 
+### Purpose of wireshark - 
 
 
 
@@ -151,7 +151,7 @@ Purpose of wireshark -
 * developers use it to debug protocol implementations 
 * people use it to learn network protocol internals
 
-Assignment - 
+## Assignment - 
 
 
 
