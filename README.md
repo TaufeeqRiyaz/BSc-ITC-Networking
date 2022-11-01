@@ -136,17 +136,14 @@ arp who-has 128.3.254.6 tell 128.3.254.68 arp reply 128.3.254.6 is-at 02:07:01:0
 
 Wireshark - 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](![image](https://user-images.githubusercontent.com/74425589/199260208-fd9a9831-8dd1-4e7b-a441-0d947ded50b9.png) "image_tooltip")
 
 
 
-    Wireshark is a free and open source packet analyzer. It is also a protocol analyzer tool which captures network traffic and analyzes it. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, the project was renamed Wireshark in May 2006 .
+Wireshark is a free and open source packet analyzer. It is also a protocol analyzer tool which captures network traffic and analyzes it. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, the project was renamed Wireshark in May 2006 .
 
 
-     Purpose of wireshark - 
+Purpose of wireshark - 
 
 
 
